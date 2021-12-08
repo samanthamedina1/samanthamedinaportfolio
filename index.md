@@ -7,11 +7,9 @@
 [Galaxy Cat]
 <img src="images/Arctic-Monkeys-03-Photo-Credit-Zackery-Michael-HI-RES.jpg?raw=true"/>
 
----
 [Graffiti Art]
 <img src="images/swirl.png?raw=true"/>
 
----
 [Ripped effect]
 <img src="images/galaxycat.png?raw=true"/>
 
