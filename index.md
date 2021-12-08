@@ -4,7 +4,7 @@
 
 ### My Creative Works 
 
-[Galaxy Cat]
+[Galaxy Cat](/sample_page)
 <img src="images/Arctic-Monkeys-03-Photo-Credit-Zackery-Michael-HI-RES.jpg?raw=true"/>
 
 [Graffiti Art]
