@@ -4,16 +4,17 @@
 
 ### My Creative Works 
 
-[Galaxy Cat](/sample_page)
+[Galaxy Cat]
 <img src="images/Arctic-Monkeys-03-Photo-Credit-Zackery-Michael-HI-RES.jpg?raw=true"/>
 
 [Graffiti Art]
 <img src="images/swirl.png?raw=true"/>
 
 [Ripped effect]
-<img src="images/galaxycat.png?raw=true"/>
+<img src="images/galaxycat2.jpg?raw=true"/>
 
----
+[Earth Day]
+<img src="images/projectbutterfly.jpg?raw=true"/>
 
 ### Category Name 2
 
