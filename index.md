@@ -20,7 +20,7 @@
 <img src="images/3d2.png?raw=true"/>
 
 [Retro]
-<img src="images/retro.png?raw=true"/>
+<img src="images/retro.jpg?raw=true"/>
 
 ### Category Name 2
 
