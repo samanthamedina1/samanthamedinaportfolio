@@ -16,6 +16,12 @@
 [Earth Day]
 <img src="images/projectbutterfly.jpg?raw=true"/>
 
+[3d Picture]
+<img src="images/3d2.png?raw=true"/>
+
+[Retro]
+<img src="images/retro.png?raw=true"/>
+
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
